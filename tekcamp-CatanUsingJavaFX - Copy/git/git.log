@@ -1,0 +1,55 @@
+commit f911686e9b3095bbca24d277b13c7a3807d46791
+Merge: 64d9e4c 1d163a6
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 17:18:04 2021 -0500
+
+    Resolving conflict
+
+commit 1d163a64e5862e2e7f4103c12d5303a7bb33d10a
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 17:13:03 2021 -0500
+
+    Changing h1 tag to h2 from h2-tag feature branch
+
+commit 64d9e4c925348576cecc7e7014db00aeb141e131
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 17:10:24 2021 -0500
+
+    Updating value of h1 tag from updated-h1 branch
+
+commit fe4c8a0ce2c468a9d4f1b3883d454a1c6e5e2b45
+Merge: 4edfef6 9db4910
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 16:59:17 2021 -0500
+
+    Resolve merge conflict
+
+commit 4edfef6fd0cf9e42f09576fa6e6eb56cfb91c8ab
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 16:55:27 2021 -0500
+
+    Modified index.html for new body branch
+
+commit 9db4910c245c0807569fac7dbde246adbe4138f3
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 16:51:05 2021 -0500
+
+    Updating index.html, changing title to updated html
+
+commit a4915751ddc67507d82dab4b5e092a00f4f00242
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 14:14:50 2021 -0500
+
+    Adding body to index.html
+
+commit 619fb3e289f455ab400c6cd1e19e2458a93df12b
+Author: ShraddhaSharma243 <sd.shar24@gmail.com>
+Date:   Wed Jul 21 13:42:08 2021 -0500
+
+    Adding git folder and index.html to the Root. Q17
+
+commit 8165076165d2ed6b3a95419ed6a8903e28b951c0
+Author: ShraddhaSharma243 <86325357+ShraddhaSharma243@users.noreply.github.com>
+Date:   Wed Jul 21 13:14:13 2021 -0500
+
+    Initial commit
